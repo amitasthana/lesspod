@@ -2,6 +2,8 @@
 
 Serverless CMS (Website + Blog Engine) (In Active Development)
 
+We're building the NEXT version of Lesspod here:
+https://github.com/lesspod/lesspod-2.0
 
 ## Why Lesspod?
 
@@ -45,7 +47,7 @@ At this point we're directly talking to firebase and not making progress on the 
 Skip following steps for now:
 
 ```
-$ git clone https://github.com/amitasthana/lesspod.git   //clone repo
+$ git clone https://github.com/Rajan/lesspod.git   //clone repo
 $ cd lesspod  //move to project directory
 $ npm install //install necessary packages 
 $ node -r dotenv/config index.js //setup environment variables
